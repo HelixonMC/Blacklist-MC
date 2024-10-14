@@ -1,2 +1,48 @@
-JULINKA64 - [2024-07-29 08:10:06] : 87.244.194.72:57471
-            [2024-04-17 18:46:54] : 217.144.19.220:36079
+# Správa o bezpečnostnom incidente pre server Minecraft
+
+
+      ### ÚČEL:
+
+
+Tento repozitár slúži na informovanie správcov serverov a širšej komunity Minecraftu o konkrétnych hráčoch zapojených do podozrivých aktivít, ktoré pravdepodobne súvisia s útokmi na server alebo inými narušeniami bezpečnosti. Všetci hráči uvedení nižšie nejakou formou komunikovali s naším serverom, a to buď prostredníctvom aktívneho hrania, alebo boli zaregistrovaní ako neaktívne účty. Na základe záznamov servera všetci títo hráči boli pripojený z IP adres výlučne z Českej republiky alebo Slovenskej Republiky.
+
+
+      ### PODROBNOSTI O INCIDENTE:
+
+
+Nasledujúci hráči boli identifikovaní na základe podozrivých aktivít pozorovaných na našom serveri, okrem iného vrátane útokov DDoS, zneužívania zraniteľností servera alebo iných škodlivých akcií. Presná povaha ich zapojenia - či už sa priamo podieľali na útokoch alebo nepriamo zneužívali zraniteľnosti - sa líšila, ale všetky tieto incidenty možno vystopovať na českých a slovenských IP adresách.
+
+
+      ### DISCLAIMER:
+
+
+Tento zoznam je založený na logoch serverov a iných pozorovaných správaniach. Hoci títo hráči nie sú definitívne vinní zo škodlivých činov, ich aktivity silne naznačujú koordinovaný pokus o útok na server. Je dôležité poznamenať, že tento zoznam nerozlišuje medzi hráčmi priamo zapojenými do útokov DDoS, využívania zraniteľností servera alebo iných typov škodlivých aktivít. Všetky interakcie so serverom boli vystopované na IP adresy z Českej republiky alebo Slovenska a každý hráč uvedený na zozname sa buď aktívne zapájal do hrania, alebo mal na našom serveri existujúci účet.
+
+
+       ### ZOZNAM:
+
+
+|      USERNAME      | PROBABILITY |
+|--------------------|-------------|
+| JULINKA64          | 100%        |
+| AbbieCZ            | 95%         |
+| InnocentPlayer     | 20%         |
+
+
+
+
+       ### ZÁSADY:
+
+
+Žiadny z hráčov uvedených v tejto správe nemá právo požiadať o odstránenie zo zoznamu. Zaradenie každého hráča je založené na pozorovanej podozrivej činnosti, a preto budú všetky žiadosti o odstránenie zamietnuté, pokiaľ nebudú poskytnuté jasné dôkazy, ktoré preukazujú nevinu hráča alebo činnosť bola výsledkom nedorozumenia. Účelom tohto zoznamu je chrániť komunitu Minecraft a zachovanie transparentnosti je nevyhnutné na zaistenie bezpečnosti servera.
+
+
+      ### INDIVIDUÁLNE HODNOTENIE:
+
+
+Každý hráč uvedený v tejto správe bol individuálne posúdený a preskúmaný na základe záznamov servera, vzorcov správania a ďalších relevantných údajov. Každé zaradenie do zoznamu sa uskutočnilo po dôkladnom zvážení dôkazov, čím sa zabezpečilo, že žiadny hráč nebol zaradený bez dôkladného overenia jeho účasti na podozrivých alebo škodlivých aktivitách.
+
+
+
+Česko-Slovenský Minecraft Server
+© Helixon.eu 
