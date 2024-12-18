@@ -34,7 +34,7 @@ Každý hráč uvedený v tejto správe bol individuálne posúdený a preskúma
       ### ODPORÚČANIE:
 
 
-Tento zoznam bol vytvorený na ochranu českej a slovenskej komunity Minecraftu pred potenciálnymi hrozbami a škodlivými aktivitami. Dôrazne odporúčame, aby správcovia serverov skontrolovali používateľské mená hráčov uvedených v tomto zozname na svojich vlastných serveroch. Ak sa s niektorým z týchto hráčov stretnete, odporúčame prijať vhodné opatrenia na ochranu integrity vášho servera vrátane zváženia pridania týchto hráčov na čiernu listinu. Váš proaktívny prístup môže pomôcť predísť potenciálnym narušeniam a zvýšiť celkovú bezpečnosť komunity. Mnohé servery v CZ/SK komunite často nedostatočne dbajú na bezpečnosť, čo vedie k stále čoraz častejším narušeniam.
+Tento zoznam bol vytvorený na ochranu českej a slovenskej komunity Minecraftu pred potenciálnymi hrozbami a škodlivými aktivitami. Dôrazne odporúčame, aby správcovia serverov skontrolovali používateľské mená a IP hráčov uvedených v tomto zozname na svojich vlastných serveroch. Ak sa s niektorým z týchto hráčov stretnete, odporúčame prijať vhodné opatrenia na ochranu integrity vášho servera vrátane zváženia pridania týchto hráčov na čiernu listinu. Váš proaktívny prístup môže pomôcť predísť potenciálnym narušeniam a zvýšiť celkovú bezpečnosť komunity. Mnohé servery v CZ/SK komunite často nedostatočne dbajú na bezpečnosť, čo vedie k stále čoraz častejším narušeniam.
 
 
       ### OBJASNENIE:
