@@ -56,6 +56,8 @@ Tento zoznam bol vytvorený na ochranu českej a slovenskej komunity Minecraftu 
 
 Tento zoznam nie je súhrnom hráčov, ktorí porušili pravidlá hry, ako napríklad spamovanie, podvádzanie, používanie urážlivých výrazov alebo iné pravidlá uvedené na našej webovej stránke. Namiesto toho sa zameriava konkrétne na hráčov spojených s podozrivými aktivitami, ktoré môžu predstavovať hrozbu pre bezpečnosť servera. Kritériá pre zaradenie do tohto zoznamu sa líšia od štandardných porušení pravidiel hry a zdôrazňujú dôležitosť riešenia potenciálnych bezpečnostných rizík pre komunitu.
 
+So žiadosťou o odstránenie zo zoznamu, môžete požiadať na našom discorde - založením si tiketu: https://discord.helixon.eu alebo odoslaním správy na podpora@helixon.eu.
+
 
 "Slovenský Minecraft Server"
 
