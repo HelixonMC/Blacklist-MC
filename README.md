@@ -19,20 +19,6 @@ Nasledujúci hráči boli identifikovaní na základe podozrivých aktivít pozo
 Tento zoznam je založený na logoch serverov a iných pozorovaných správaniach. Hoci títo hráči nie sú definitívne vinní zo škodlivých činov, ich aktivity silne naznačujú koordinovaný pokus o útok na server. Je dôležité poznamenať, že tento zoznam nerozlišuje medzi hráčmi priamo zapojenými do útokov DDoS, Bootingu, využívania zraniteľností servera alebo iných typov škodlivých aktivít. Všetky interakcie so serverom boli vystopované na IP adresy z Českej alebo Slovenskej Republiky a každý hráč uvedený na zozname sa buď aktívne zapájal do hrania, alebo mal na našom serveri existujúci účet.
 
 
-       ### ZOZNAM:
-
-________________________________________
-|    NAME      | PROB.|       IP       |
-|--------------|------|----------------|
-| JULINKA64    | 100% |  87.244.194.72 |
-|              |      | 217.144.19.220 |
-| AbbieCZ      |  70% |  109.81.92.237 |
-| uhlik2021    |  70% |  93.89.107.170 |
-| YTStefanYTB  |  90% |  178.23.88.191 |
-| sony225689   |  90% |  178.23.88.220 |
-----------------------------------------
-
-
        ### ZÁSADY / POLITIKA:
 
 
