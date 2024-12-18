@@ -22,7 +22,7 @@ Tento zoznam je založený na logoch serverov a iných pozorovaných správaniac
        ### ZÁSADY / POLITIKA:
 
 
-Žiadny z hráčov uvedených v tejto správe nemá právo požiadať o odstránenie zo zoznamu. Zaradenie každého hráča je založené na pozorovanej podozrivej činnosti, a preto budú všetky žiadosti o odstránenie zamietnuté, pokiaľ nebudú poskytnuté jasné dôkazy, ktoré preukazujú nevinu hráča alebo činnosť bola výsledkom nedorozumenia.
+Žiadny z hráčov uvedených v tomto zozname nemá právo požiadať o odstránenie zo zoznamu. Zaradenie každého hráča je založené na pozorovanej podozrivej činnosti, a preto budú všetky žiadosti o odstránenie zamietnuté, pokiaľ nebudú poskytnuté jasné dôkazy, ktoré preukazujú nevinu hráča alebo činnosť bola výsledkom nedorozumenia.
 
 
       ### INDIVIDUÁLNE HODNOTENIE:
