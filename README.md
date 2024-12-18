@@ -16,7 +16,7 @@ Nasledujúci hráči boli identifikovaní na základe podozrivých aktivít pozo
       ### DISCLAIMER:
 
 
-Tento zoznam je založený na logoch serverov a iných pozorovaných správaniach. Hoci títo hráči nie sú definitívne vinní zo škodlivých činov, ich aktivity silne naznačujú koordinovaný pokus o útok na server. Je dôležité poznamenať, že tento zoznam nerozlišuje medzi hráčmi priamo zapojenými do útokov DDoS, Bootingu, využívania zraniteľností servera alebo iných typov škodlivých aktivít. Všetky interakcie so serverom boli vystopované na IP adresy z Českej republiky alebo Slovenska a každý hráč uvedený na zozname sa buď aktívne zapájal do hrania, alebo mal na našom serveri existujúci účet.
+Tento zoznam je založený na logoch serverov a iných pozorovaných správaniach. Hoci títo hráči nie sú definitívne vinní zo škodlivých činov, ich aktivity silne naznačujú koordinovaný pokus o útok na server. Je dôležité poznamenať, že tento zoznam nerozlišuje medzi hráčmi priamo zapojenými do útokov DDoS, Bootingu, využívania zraniteľností servera alebo iných typov škodlivých aktivít. Všetky interakcie so serverom boli vystopované na IP adresy z Českej alebo Slovenskej Republiky a každý hráč uvedený na zozname sa buď aktívne zapájal do hrania, alebo mal na našom serveri existujúci účet.
 
 
        ### ZOZNAM:
@@ -48,7 +48,7 @@ Každý hráč uvedený v tejto správe bol individuálne posúdený a preskúma
       ### ODPORÚČANIE:
 
 
-Tento zoznam bol vytvorený na ochranu českej a slovenskej komunity Minecraftu pred potenciálnymi hrozbami a škodlivými aktivitami. Dôrazne odporúčame, aby správcovia serverov skontrolovali používateľské mená hráčov uvedených v tomto zozname na svojich vlastných serveroch. Ak sa s niektorým z týchto hráčov stretnete, odporúčame prijať vhodné opatrenia na ochranu integrity vášho servera vrátane zváženia pridania týchto hráčov na čiernu listinu. Váš proaktívny prístup môže pomôcť predísť potenciálnym narušeniam a zvýšiť celkovú bezpečnosť komunity.
+Tento zoznam bol vytvorený na ochranu českej a slovenskej komunity Minecraftu pred potenciálnymi hrozbami a škodlivými aktivitami. Dôrazne odporúčame, aby správcovia serverov skontrolovali používateľské mená hráčov uvedených v tomto zozname na svojich vlastných serveroch. Ak sa s niektorým z týchto hráčov stretnete, odporúčame prijať vhodné opatrenia na ochranu integrity vášho servera vrátane zváženia pridania týchto hráčov na čiernu listinu. Váš proaktívny prístup môže pomôcť predísť potenciálnym narušeniam a zvýšiť celkovú bezpečnosť komunity. Mnohé servery v CZ/SK komunite často nedostatočne dbajú na bezpečnosť, čo vedie k stále čoraz častejším narušeniam.
 
 
       ### OBJASNENIE:
