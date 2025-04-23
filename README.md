@@ -4,7 +4,7 @@
       ### ÚČEL:
 
 
-Tento repozitár slúži na informovanie správcov serverov a širšej komunity Minecraftu (najmä CZ/SK komunity) o konkrétnych hráčoch zapojených do podozrivých aktivít, ktoré pravdepodobne súvisia s útokmi na server alebo inými narušeniami bezpečnosti. Všetci hráči uvedení nižšie nejakou formou komunikovali s naším serverom, a to buď prostredníctvom aktívneho hrania, alebo boli zaregistrovaní ako neaktívne účty. Na základe záznamov servera všetci títo hráči boli pripojený z IP adres výlučne z Českej alebo Slovenskej Republiky.
+Tento repozitár slúži na informovanie správcov serverov a širšej komunity Minecraftu (najmä CZ/SK komunity) o konkrétnych hráčoch zapojených do podozrivých aktivít, ktoré pravdepodobne súvisia s útokmi na server alebo inými narušeniami bezpečnosti. Všetci hráči uvedení v tomto zozname nejakou formou komunikovali s naším serverom, a to buď prostredníctvom aktívneho hrania, alebo boli zaregistrovaní ako neaktívne účty. Na základe záznamov servera všetci títo hráči boli pripojený z IP adres výlučne z Českej alebo Slovenskej Republiky.
 
 
       ### PODROBNOSTI:
